@@ -878,9 +878,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     CovidComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: CovidComponent,
       selectors: [["app-covid"]],
-      decls: 225,
+      decls: 242,
       vars: 0,
-      consts: [["id", "Covid19"], [1, "alert", "alert-dismissible", "alert-danger"], [2, "font-size", "x-large"], [1, "mb-0"], ["href", "https://www.mdcalc.com/covid-19", "target", "_blank", "rel", "noopener noreferrer", 1, "alert-link"], ["href", "https://www.mdcalc.com/covid-19/brescia-covid-respiratory-severity-scale-bcrss-interview", "target", "_blank", "rel", "noopener noreferrer", 1, "alert-link"], [1, "alert", "alert-dismissible", "alert-info"], [1, "alert", "alert-dismissible", "alert-light"], [1, "switch-field"], ["type", "radio", "id", "criteria_2_0-no", "name", "criteria_2_0", 1, "btn", "btn-outline-info", 3, "change"], ["for", "criteria_2_0-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_0-yes", "name", "criteria_2_0", 3, "change"], ["for", "criteria_2_0-yes", 1, "switch-field"], ["type", "radio", "id", "criteria_2_1-no", "name", "criteria_2_1", 3, "change"], ["for", "criteria_2_1-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_1-yes", "name", "criteria_2_1", 3, "change"], ["for", "criteria_2_1-yes", 1, "switch-field"], ["type", "radio", "id", "criteria_2_2-no", "name", "criteria_2_2", 3, "change"], ["for", "criteria_2_2-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_2-yes", "name", "criteria_2_2", 3, "change"], ["for", "criteria_2_2-yes", 1, "switch-field"], ["title", "Chest X-ray", 1, "tooltip1"], ["type", "radio", "id", "criteria_2_3-no", "name", "criteria_2_3", 3, "change"], ["for", "criteria_2_3-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_3-yes", "name", "criteria_2_3", 3, "change"], ["for", "criteria_2_3-yes", 1, "switch-field"], ["id", "criteria_2_4d", 2, "display", "none"], ["type", "radio", "id", "criteria_2_4-no", "name", "criteria_2_4", 3, "change"], ["for", "criteria_2_4-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_4-yes", "name", "criteria_2_4", 3, "change"], ["for", "criteria_2_4-yes", 1, "switch-field"], ["id", "criteria_2_5d", 2, "display", "none"], ["title", "Continuous mandatory ventilation", 1, "tooltip1"], ["type", "radio", "id", "criteria_2_5-no", "name", "criteria_2_5", 3, "change"], ["for", "criteria_2_5-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_5-yes", "name", "criteria_2_5", 3, "change"], ["for", "criteria_2_5-yes", 1, "switch-field"], ["id", "criteria_2_6d", 2, "display", "none"], ["href", "https://www.mdcalc.com/horowitz-index-lung-function-p-f-ratio"], ["type", "radio", "id", "criteria_2_6-no", "name", "criteria_2_6", 3, "change"], ["for", "criteria_2_6-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_6-yes", "name", "criteria_2_6", 3, "change"], ["for", "criteria_2_6-yes", 1, "switch-field"], ["id", "criteria_2_7d", 2, "display", "none"], ["type", "radio", "id", "criteria_2_7-no", "name", "criteria_2_7", 3, "change"], ["for", "criteria_2_7-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_7-yes", "name", "criteria_2_7", 3, "change"], ["for", "criteria_2_7-yes", 1, "switch-field"], ["id", "criteria_2_8d", 2, "display", "none"], ["type", "radio", "id", "criteria_2_8-no", "name", "criteria_2_8", 3, "change"], ["for", "criteria_2_8-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_8-yes", "name", "criteria_2_8", 3, "change"], ["for", "criteria_2_8-yes", 1, "switch-field"], ["type", "button", "id", "button1", 3, "click"], ["type", "button", "id", "button2", 3, "click"], ["id", "Theme5", 1, "card", "text-center", "bg-dark", 2, "display", "inline-block"], [1, "card-header"], ["id", "Results", 1, "card-body"], ["id", "Levels", 2, "font-size", "large"], ["id", "Management_2_1"], ["id", "Medications_2_1"], ["type", "button", "data-toggle", "collapse", "data-target", "#MedText", "aria-expanded", "false", "aria-controls", "MedText", 1, "btn", "btn-outline-info"], ["width", "1em", "height", "1em", "viewBox", "0 0 16 16", "fill", "currentColor", "xmlns", "http://www.w3.org/2000/svg", 1, "bi", "bi-chevron-down"], ["fill-rule", "evenodd", "d", "M1.646 4.646a.5.5 0 01.708 0L8 10.293l5.646-5.647a.5.5 0 01.708.708l-6 6a.5.5 0 01-.708 0l-6-6a.5.5 0 010-.708z", "clip-rule", "evenodd"], ["id", "MedText", 1, "collapse", 2, "text-align", "center"], [2, "text-align", "left", "display", "inline-block"], [2, "text-align", "lcenter", "display", "inline-block"], [2, "white-space", "nowrap"], ["href", "https://cdn-web-img.mdcalc.com/content/BRSS_A4.pdf", "target", "_blank", "rel", "noopener noreferrer"], ["target", "_blank", "rel", "noopener noreferrer", "href", "https://cdn-web-img.mdcalc.com/content/BRSS_A4-1.png"], ["src", "https://cdn-web-img.mdcalc.com/content/BRSS_A4-1.png", "alt", "BRSS"]],
+      consts: [["id", "Covid19"], [1, "alert", "alert-dismissible", "alert-danger"], [2, "font-size", "x-large"], [1, "mb-0"], ["href", "https://www.mdcalc.com/covid-19", "target", "_blank", "rel", "noopener noreferrer", 1, "alert-link"], ["href", "https://www.mdcalc.com/covid-19/brescia-covid-respiratory-severity-scale-bcrss-interview", "target", "_blank", "rel", "noopener noreferrer", 1, "alert-link"], [1, "alert", "alert-dismissible", "alert-info"], [1, "alert", "alert-dismissible", "alert-light"], [1, "switch-field"], ["type", "radio", "id", "criteria_2_0-no", "name", "criteria_2_0", 1, "btn", "btn-outline-info", 3, "change"], ["for", "criteria_2_0-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_0-yes", "name", "criteria_2_0", 3, "change"], ["for", "criteria_2_0-yes", 1, "switch-field"], ["type", "radio", "id", "criteria_2_1-no", "name", "criteria_2_1", 3, "change"], ["for", "criteria_2_1-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_1-yes", "name", "criteria_2_1", 3, "change"], ["for", "criteria_2_1-yes", 1, "switch-field"], ["type", "radio", "id", "criteria_2_2-no", "name", "criteria_2_2", 3, "change"], ["for", "criteria_2_2-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_2-yes", "name", "criteria_2_2", 3, "change"], ["for", "criteria_2_2-yes", 1, "switch-field"], ["title", "Chest X-ray", 1, "tooltip1"], ["type", "radio", "id", "criteria_2_3-no", "name", "criteria_2_3", 3, "change"], ["for", "criteria_2_3-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_3-yes", "name", "criteria_2_3", 3, "change"], ["for", "criteria_2_3-yes", 1, "switch-field"], ["id", "criteria_2_4d", 2, "display", "none"], ["type", "radio", "id", "criteria_2_4-no", "name", "criteria_2_4", 3, "change"], ["for", "criteria_2_4-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_4-yes", "name", "criteria_2_4", 3, "change"], ["for", "criteria_2_4-yes", 1, "switch-field"], ["id", "criteria_2_5d", 2, "display", "none"], ["title", "Continuous mandatory ventilation", 1, "tooltip1"], ["type", "radio", "id", "criteria_2_5-no", "name", "criteria_2_5", 3, "change"], ["for", "criteria_2_5-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_5-yes", "name", "criteria_2_5", 3, "change"], ["for", "criteria_2_5-yes", 1, "switch-field"], ["id", "criteria_2_6d", 2, "display", "none"], ["href", "https://www.mdcalc.com/horowitz-index-lung-function-p-f-ratio"], ["type", "radio", "id", "criteria_2_6-no", "name", "criteria_2_6", 3, "change"], ["for", "criteria_2_6-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_6-yes", "name", "criteria_2_6", 3, "change"], ["for", "criteria_2_6-yes", 1, "switch-field"], ["id", "criteria_2_7d", 2, "display", "none"], ["type", "radio", "id", "criteria_2_7-no", "name", "criteria_2_7", 3, "change"], ["for", "criteria_2_7-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_7-yes", "name", "criteria_2_7", 3, "change"], ["for", "criteria_2_7-yes", 1, "switch-field"], ["id", "criteria_2_8d", 2, "display", "none"], ["type", "radio", "id", "criteria_2_8-no", "name", "criteria_2_8", 3, "change"], ["for", "criteria_2_8-no", 1, "switch-field"], ["type", "radio", "id", "criteria_2_8-yes", "name", "criteria_2_8", 3, "change"], ["for", "criteria_2_8-yes", 1, "switch-field"], ["type", "button", "id", "button1", 3, "click"], ["type", "button", "id", "button2", 3, "click"], ["id", "Theme5", 1, "card", "text-center", "bg-dark", 2, "display", "inline-block"], [1, "card-header"], ["id", "Results", 1, "card-body"], ["id", "Levels", 2, "font-size", "large"], ["id", "Management_2_1"], ["id", "Medications_2_1"], ["type", "button", "data-toggle", "collapse", "data-target", "#MedText", "aria-expanded", "false", "aria-controls", "MedText", 1, "btn", "btn-outline-info"], ["width", "1em", "height", "1em", "viewBox", "0 0 16 16", "fill", "currentColor", "xmlns", "http://www.w3.org/2000/svg", 1, "bi", "bi-chevron-down"], ["fill-rule", "evenodd", "d", "M1.646 4.646a.5.5 0 01.708 0L8 10.293l5.646-5.647a.5.5 0 01.708.708l-6 6a.5.5 0 01-.708 0l-6-6a.5.5 0 010-.708z", "clip-rule", "evenodd"], ["id", "MedText", 1, "collapse", 2, "text-align", "center"], [2, "text-align", "left", "display", "inline-block"], ["href", "https://cdn-web-img.mdcalc.com/content/BRSS_A4.pdf", "target", "_blank", "rel", "noopener noreferrer", "download", ""], [2, "text-align", "lcenter", "display", "inline-block"], [2, "white-space", "nowrap"], ["href", "https://www.eahp.eu/sites/default/files/linee_guida_sulla_gestione_terapeutica_e_di_supporto_per_pazienti_con_infezione_da_coronavirus_covid-19.pdf", "target", "_blank", "rel", "noopener noreferrer", "download", ""], ["href", "https://www.mdcalc.com/brescia-covid-respiratory-severity-scale-bcrss-algorithm", "target", "_blank", "rel", "noopener noreferrer", "download", ""], ["target", "_blank", "rel", "noopener noreferrer", "href", "https://cdn-web-img.mdcalc.com/content/BRSS_A4-1.png"], ["src", "https://cdn-web-img.mdcalc.com/content/BRSS_A4-1.png", "alt", "BRSS"]],
       template: function CovidComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -1585,35 +1585,13 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](200, "p");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](200, "h5");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](201, "From ");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](201, "ADVICE");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](202, "a", 66);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](202, "div", 65);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](203, "ul");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](204, "li");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](205, "Healthcare workers must be aware that COVID-19 information is rapidly changing; ");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](206, "br");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](207, " We will attempt to update this score as frequently as possible to keep up with the rapidly changing nature of this pandemic. ");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](208, "li");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](209, "While this score certainly would indicate increasing levels of respiratory severity, ");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](210, "br");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](211, " one's local hospital recommendations or drug availability may provide different recommendations for treatment.");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](203, "Italy's latest SIMIT Guidelines.");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -1621,43 +1599,113 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](212, "h5");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](204, "br");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](213, "EVIDENCE APPRAISAL");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](205, "br");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](206, "h5");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](214, "div", 66);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](215, "p", 67);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](216, " This score has not been externally validated and is being published on The-Journey as one way to easily assess and compare patients in a time of crisis.");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](207, "ADVICE");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](208, "div", 65);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](217, "p");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](209, "ul");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](218, "a", 68);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](210, "li");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](219, "Brescia-COVID Treatment Algorithm");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](211, "Healthcare workers must be aware that COVID-19 information is rapidly changing; ");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](212, "br");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](220, "br");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](221, "a", 69);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](222, "img", 70);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](213, " We will attempt to update this score as frequently as possible to keep up with the rapidly changing nature of this pandemic. ");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](223, "br");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](214, "li");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](215, "While this score certainly would indicate increasing levels of respiratory severity, ");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](216, "br");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](217, " one's local hospital recommendations or drug availability may provide different recommendations for treatment.");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](218, "br");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](219, "h5");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](220, "EVIDENCE APPRAISAL");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](221, "div", 67);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](222, "p", 68);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](223, " This score has not been externally validated and is being published on The-Journey as one way to easily assess and compare patients in a time of crisis.");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](224, "br");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](225, "br");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](226, "h5");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](227, "ORIGINAL/PRIMARY REFERENCE");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](228, "p");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](229, "a", 69);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](230, "SIMIT Guidelines");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](231, "p");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](232, "a", 66);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](233, "Brescia-COVID Treatment Algorithm");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](234, "p");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](235, "a", 70);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](236, "MDCalc's BCRSS");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](237, "br");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](238, "a", 71);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](239, "img", 72);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](240, "br");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](241, "br");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
